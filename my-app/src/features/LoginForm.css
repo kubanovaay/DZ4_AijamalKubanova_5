@@ -1,0 +1,16 @@
+.card {
+    max-width: 400px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+input[type="text"],
+input[type="email"],
+input[type="password"] {
+    margin-top: 5px;
+    margin-bottom: 20px;
+}
+
+.button {
+    margin-top: 20px;
+}
